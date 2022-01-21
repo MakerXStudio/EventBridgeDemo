@@ -1,0 +1,7 @@
+*/.DS_Store
+.DS_Store
+*/node_modules
+.env
+EventBridgeDemo/bin/EventBridgeDemo.js
+EventBridgeDemo/lib/EventBridgeDemo-stack.js
+EventBridgeDemo/test/EventBridgeDemo.test.js
